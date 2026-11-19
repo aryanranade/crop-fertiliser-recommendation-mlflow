@@ -1,0 +1,8 @@
+# MLflow tracking store (created by running the notebook)
+mlflow.db
+mlruns/
+mlartifacts/
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
